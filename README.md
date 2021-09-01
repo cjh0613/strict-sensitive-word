@@ -15,6 +15,8 @@
 
 当然，这样误判率高
 
+[腾讯的离线敏感词库](https://github.com/cjh0613/tencent-sensitive-words)
+
 ## 使用说明
 一行一个。
 
